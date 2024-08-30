@@ -25,8 +25,7 @@ A simple multithreaded HTTP server written in Ruby. This server supports various
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ruby-http-server.git
-cd ruby-http-server
+git clone https://github.com/tahahanci/ruby-http-server.git
 ```
 
 ### 2. Run the server
